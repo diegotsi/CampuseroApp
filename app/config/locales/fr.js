@@ -1,0 +1,15 @@
+export default {
+    greeting: 'Bonjour',
+    homePageTitle: 'Vols',
+    login: 'Connexion',
+    signIn: 'S\'inscrire',
+    favorites: 'Favoris',
+    profile: 'Le profil',
+    search: 'Chercher',
+    upcoming: 'Suivant',
+    ongoing: 'En cours',
+    events: 'Événements',
+    speakers: 'Haut-parleurs',
+    share: 'Partagez ça',
+    participate: 'Participer',
+};

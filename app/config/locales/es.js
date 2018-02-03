@@ -1,0 +1,15 @@
+export default {
+    greeting: '¡Hola',
+    homePageTitle: 'Primero',
+    login: 'Login',
+    signIn: 'Registrarse',
+    favorites: 'Favoritos',
+    profile: 'Perfil',
+    search: 'Buscar',
+    upcoming: 'Próximos',
+    ongoing: 'Acontecimiento',
+    events: 'Eventos',
+    speakers: 'Altavoces',
+    share: 'Compartir',
+    participate: 'Participear',
+}

@@ -1,0 +1,1 @@
+export const CHANGE_WEATHER = "CHANGE_WEATHER";
